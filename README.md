@@ -12,6 +12,8 @@ Strategic Use: Ideal for covering large distances swiftly or making deliveries j
 Phasing Ability
 Functionality: Allows the player to phase through objects for a brief period, creating shortcuts through obstacles.
 Implementation Details: The phasing effect continues until the player exits an object, even if the ability’s duration ends while inside an obstacle. A fail-safe mechanism prevents unintended consequences.
+
+Jump higher: Pressing J to make the robot jump higher
 Team
 Team Name: Team X
 Members: Husam Suoamra (Producer): Husam sets high expectations and brings thoughtful ideas to the table. He keeps the team organized and ensures efficient collaboration.
